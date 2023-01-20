@@ -1,0 +1,6 @@
+In this complete project everything is working fine, but the only problem was the database.
+
+
+Learnt new technology- styled components, react slick, react slick carousel and
+implementation of firebase in the  project.
+How to use redux and store the data in the centralized store.

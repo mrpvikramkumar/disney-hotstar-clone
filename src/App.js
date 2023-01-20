@@ -5,6 +5,8 @@ import Header from "./components/Header";
 import "./App.css";
 import Home from "./components/Home";
 import Detail from "./components/Detail";
+// import Alan from "./Alan";
+
 function App() {
   return (
     <div className="App">
@@ -20,6 +22,7 @@ function App() {
           <Route path="/detail/:id">
             <Detail/>
           </Route>
+            {/* <Alan></Alan> */}
         </Switch>
       </Router>
     </div>
